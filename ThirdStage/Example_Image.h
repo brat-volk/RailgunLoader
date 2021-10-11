@@ -1,0 +1,1 @@
+unsigned char rawData[] = { '0x0a' , '0x0c'}
